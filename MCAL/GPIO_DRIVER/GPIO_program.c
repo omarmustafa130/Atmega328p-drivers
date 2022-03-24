@@ -2,7 +2,7 @@
  * GPIO_program.c
  *
  * Created: 9/15/2021 9:08:27 PM
- *  Author: The Warlock & Omar
+ *  Author: Omar
  */
 #include "../../Library/STD_TYPES.h" 
 #include "../../Library/BIT_MATH.h"
