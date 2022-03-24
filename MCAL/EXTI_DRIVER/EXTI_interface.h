@@ -2,7 +2,7 @@
  * EXTI_interface.h
  *
  *  Created on: Sep 18, 2021
- *      Author: G2
+ *      Author: Omar
  */
 
 #ifndef EXTI_INTERFACE_H_
