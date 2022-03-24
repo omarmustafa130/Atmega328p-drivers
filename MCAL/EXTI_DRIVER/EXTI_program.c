@@ -2,7 +2,7 @@
  * EXTI.c
  *
  *  Created on: Sep 18, 2021
- *      Author: G2
+ *      Author: Omar
  */
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"
